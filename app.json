@@ -1,0 +1,25 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/order/com-order/com-order",
+    "pages/order/user-order/user-order",
+    "pages/order/stock/stock",
+    "pages/order/home/home",
+    "pages/user/home/home",
+    "pages/user/grade/grade",
+    "pages/user/user-infor/user-infor",
+    "pages/user/com-infor/com-infor",
+    "pages/code/home/home"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "智回收系统",
+    "navigationStyle": "custom",
+    "navigationBarTextStyle": "white"
+  },
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom"
+  },
+  "sitemapLocation": "sitemap.json"
+}
